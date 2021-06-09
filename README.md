@@ -1,1 +1,7 @@
 # BMI-CALCULATOR
+WITH THE HELP OF THIS APP YOU CAN CALCULATE YOUR BODY MASS INDEX(BMI).
+THIS PROJECT IS FULL OF FUN AND AND I LEARNT SO MANY NEW THINGS.
+
+![WhatsApp Image 2021-06-09 at 22 20 56 (1)](https://user-images.githubusercontent.com/83888425/121396536-1b36dd80-c971-11eb-838b-d69d8ceb81c8.jpeg)
+![WhatsApp Image 2021-06-09 at 22 20 56](https://user-images.githubusercontent.com/83888425/121396570-238f1880-c971-11eb-8f02-9a52473b82ab.jpeg)
+
